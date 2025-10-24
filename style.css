@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+table {
+  width: 100%;
+  border: 1px solid #333;
+}
+th {
+  border: 1px solid #333;
+  background-color: lightblue;
+}
+td {
+  border: 1px solid #333;
+}
+li {
+  color: green;
+}
+ul {
+  list-style-type: square;
+}
+.plan-podrozy {
+  color: gray;
+}
+#lubie {
+  color: tomato;
+}
